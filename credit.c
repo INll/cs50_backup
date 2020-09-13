@@ -100,7 +100,7 @@ int main(void)
             }
             // The following new line is made for aesthetic reasons. Unfortunately
             // Style50 doesn't accept this and will -0.01 point for this. To get
-            // 1.00 undo the new line.
+            // full mark, undo the new line.
             else if ((ph4 == 51 || ph4 == 52 || ph4 == 53 || ph4 == 54 ||
             ph4 == 55) && (length == 16))
             {
